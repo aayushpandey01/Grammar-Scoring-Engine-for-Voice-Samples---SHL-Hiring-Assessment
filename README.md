@@ -1,6 +1,6 @@
 # Grammar-Scoring-Engine-for-Voice-Samples-SHL-Hiring-Assessment
 
-An end-to-end Audio Grammar Scoring System that predicts spoken English grammar proficiency scores from audio recordings using:
+An end to end Audio Grammar Scoring System that predicts spoken English grammar proficiency scores from audio recordings using:-
 
  Speech t Text (Whisper)
 
