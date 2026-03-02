@@ -2,7 +2,7 @@
 
 An end to end Audio Grammar Scoring System that predicts spoken English grammar proficiency scores from audio recordings using:-
 
- Speech t Text (Whisper)
+ Speech to Text (Whisper)
 
  BERT Text Embeddings
 
